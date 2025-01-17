@@ -17,3 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_habits: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact   # Use compact display
