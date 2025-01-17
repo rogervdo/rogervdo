@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
-          plugin_habits: yes
+          #plugin_habits: yes
           plugin_leetcode: yes
           plugin_leetcode_user: rogervdo
           plugin_achievements: yes
