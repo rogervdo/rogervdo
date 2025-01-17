@@ -4,7 +4,7 @@
 
 `> cat profile.dat | more`
 ---
-I am currently working on mastering c++ basics.
+I am currently working on mastering c++ basics & deciding where to go next.
 
 `> whoami` 💻
 ---
