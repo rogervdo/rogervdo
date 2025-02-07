@@ -5,7 +5,7 @@
 ---
 Developer & Student at Tecnológico de Monterrey looking for opportunities and challenges to grow my coding experience.
 
-I am currently working on mastering c++ basics & deciding where to go next.
+I am currently working on learning react thru making a to-do list app
 
 
 ![Metrics](https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg)
