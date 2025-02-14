@@ -5,7 +5,7 @@
 ---
 Developer & Student at Tecnológico de Monterrey looking for opportunities and challenges to grow my coding experience.
 
-I am currently working on learning react thru making a to-do list app
+I am currently working on learning react with a to-do list app / working on a gamification project for OXXO
 
 
 ![Metrics](https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg)
