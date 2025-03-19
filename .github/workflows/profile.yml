@@ -21,7 +21,7 @@ jobs:
           #plugin_isocalendar: yes
           #plugin_isocalendar_duration: full-year # Display full year instead of half year
           #plugin_habits: yes
-          plugin_leetcode: yes
-          plugin_leetcode_user: rogervdo
+          #plugin_leetcode: yes
+          #plugin_leetcode_user: rogervdo
           plugin_achievements: yes
           plugin_achievements_display: compact   # Use compact display
