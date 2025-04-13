@@ -9,3 +9,9 @@ I am currently working on learning react with a to-do list app / working on a ga
 
 
 ![Metrics](https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rogervdo/count.svg" />
+</p>
