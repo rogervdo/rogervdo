@@ -13,8 +13,12 @@ I’m always open to chatting about tech, learning something new, or collaborati
 
 ![Metrics](https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg)
 
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1)
+
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rogervdo/count.svg" />
+  <img src="https://profile-counter.deno.dev/rogervdo/count.svg" alt="Key:: Visitor's Count" />
 </p>
+
+
