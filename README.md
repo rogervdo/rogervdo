@@ -9,11 +9,18 @@ Right now, I’m working as a Software Development Intern at Hanova Consulting, 
 
 I’m always open to chatting about tech, learning something new, or collaborating on interesting projects. Feel free to reach out!
 
+<br>
+
+<p>
+  <img src="https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg" alt="Metrics"/>
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1" alt="Spotify Recently Played" />
+</p>
 
 
-![Metrics](https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg)
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1)
+<br>
 
 
 <p align="center"> 
