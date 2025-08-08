@@ -1,5 +1,5 @@
 # Rogervdo 🎧
-![trophy](https://github-profile-trophy.vercel.app/?username=rogervdo&theme=aura&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=rogervdo&theme=gruvbox&row=1)
 
 `> whoami` 💻
 ---
