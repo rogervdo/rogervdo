@@ -6,6 +6,8 @@
 Hi!! I’m Roger, a developer and student at Tecnológico de Monterrey who’s always looking for new opportunities to learn and grow. I enjoy experimenting with new technologies and sharing what I discover with others.
 
 Right now, I’m working as a Software Development Intern at Hanova Consulting, where I help build Enterprise Resource Planning solutions and integrate AI agents for projects that need a modern approach.
+
+Currently working on my portfolio website!
 <br>
 
 <p>
