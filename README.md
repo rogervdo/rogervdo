@@ -1,5 +1,6 @@
 # Rogervdo 🎧
-![trophy](https://github-profile-trophy.vercel.app/?username=rogervdo&theme=onedark&row=1)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rogervdo&theme=onedark&row=1) -->
+![trophy](https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1)
 
 `> whoami` 💻
 ---
