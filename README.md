@@ -4,7 +4,7 @@
 
 `> whoami` 💻
 ---
-Hi!! I’m Roger, a developer and student at Tecnológico de Monterrey who’s always looking for new opportunities to learn and grow. I enjoy experimenting with new technologies and sharing what I discover with others. I love to participate in programming competitions and strive to improve my skills everyday.
+Hi!! I’m Roger, a developer and student at Tecnológico de Monterrey who’s always looking for new opportunities to learn and grow. I love to participate in programming competitions and strive to improve my skills everyday. I love coding in python ♥
 
 Right now, I’m working as a Software Development Intern at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.
 
