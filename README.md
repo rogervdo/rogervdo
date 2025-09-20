@@ -8,20 +8,10 @@ I’m a Software Developer at Hanova Consulting, where I help build ERP solution
 <br>
 
 
-<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg" width="420" align="left" />
+<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg"/>
 
-<img src="https://tetris.wiki/images/5/5b/TETRIO-DamageNumbers.gif" width="200" align="left" />
+<br>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1" alt="Spotify Recently Played" />
