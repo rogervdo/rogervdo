@@ -9,8 +9,8 @@ I’m a Software Developer at Hanova Consulting, where I help build ERP solution
 
 
 <img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg" width="420" align="left" />
-<img src="https://i.pinimg.com/736x/62/dd/b8/62ddb85b6c37738ea5b5085aa49d0353.jpg" width="220" align="left" />
-<img src="https://tetris.wiki/images/5/5b/TETRIO-DamageNumbers.gif" width="220" align="left" />
+
+<img src="https://tetris.wiki/images/5/5b/TETRIO-DamageNumbers.gif" width="200" align="left" />
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -31,4 +31,8 @@ I’m a Software Developer at Hanova Consulting, where I help build ERP solution
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.deno.dev/rogervdo/count.svg" alt="Key:: Visitor's Count" />
+</p>
+
+<p align="center"> 
+  <img src="https://i.pinimg.com/736x/62/dd/b8/62ddb85b6c37738ea5b5085aa49d0353.jpg" width="200" align="center" />
 </p>
