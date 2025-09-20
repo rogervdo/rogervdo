@@ -21,6 +21,7 @@ I’m a Software Developer at Hanova Consulting, where I help build ERP solution
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1" alt="Spotify Recently Played" />
