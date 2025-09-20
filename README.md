@@ -1,9 +1,7 @@
-# Rogervdo 🎧
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=rogervdo&theme=onedark&row=1) -->
 ![trophy](https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1)
 
 `> whoami` 💻
----
+-
 Hi! I’m Roger, a developer and student at ITESM. I love to participate in programming competitions and strive to improve my skills everyday. I love coding in python ♥ 🐍
 
 I’m a Software Developer at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.
