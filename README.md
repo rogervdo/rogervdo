@@ -1,27 +1,34 @@
 ![trophy](https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1)
 
-`> whoami` 💻
--
+`> whoami` 💻  
+-  
 Hi! I’m Roger, a developer and student at ITESM. I love to participate in programming competitions and strive to improve my skills everyday. I love coding in python ♥ 🐍
 
-I’m a Software Developer at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.
+I’m a Software Developer at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.  
 <br>
 
-<p>
-  <img src="https://github.com/rogervdo/rogervdo/blob/main/github-metrics.svg" alt="Metrics"/>
-</p>
+
+<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg" width="420" align="left" />
+<img src="https://i.pinimg.com/736x/62/dd/b8/62ddb85b6c37738ea5b5085aa49d0353.jpg" width="220" align="left" />
+<img src="https://tetris.wiki/images/5/5b/TETRIO-DamageNumbers.gif" width="220" align="left" />
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1" alt="Spotify Recently Played" />
 </p>
 
-
 <br>
-
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.deno.dev/rogervdo/count.svg" alt="Key:: Visitor's Count" />
 </p>
-
-
