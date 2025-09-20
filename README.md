@@ -6,9 +6,7 @@
 ---
 Hi! I’m Roger, a developer and student at ITESM. I love to participate in programming competitions and strive to improve my skills everyday. I love coding in python ♥ 🐍
 
-Right now, I’m working as a Software Development Intern at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.
-
-Currently working on my portfolio website!
+I’m a Software Developer at Hanova Consulting, where I help build ERP solutions and integrate AI agents for projects that need a modern approach.
 <br>
 
 <p>
