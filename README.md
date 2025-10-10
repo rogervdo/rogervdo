@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/rogervdo/rogervdo/main/roger.svg)](https://www.linkedin.com/in/rogeliojesus/)
 <br><br><br>
 
-<img src="https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1&rank=-C&no-frame=true&no-bg=true"/>
+<img src="https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1&rank=-C&no-frame=true&no-bg=true&margin-w=2" style="width: 120%;"/>
 <img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg"/>
 
 <br><br><br><br>
