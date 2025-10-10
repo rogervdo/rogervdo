@@ -4,8 +4,6 @@
 
 ![trophy](https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1)
 
-<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg"/>
-
 <br>
 
 
@@ -24,4 +22,6 @@
   Visitor count<br>
   <img src="https://profile-counter.deno.dev/rogervdo/count.svg" alt="Key:: Visitor's Count" />
 </p>
+
+<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg"/>
 
