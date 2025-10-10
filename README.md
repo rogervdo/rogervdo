@@ -1,14 +1,13 @@
 [![](https://raw.githubusercontent.com/rogervdo/rogervdo/main/roger.svg)](https://www.linkedin.com/in/rogeliojesus/)
 <br><br><br>
 
-<img src="https://trophygh.kolioaris.xyz/?username=rogervdo&theme=gruvbox&row=1&rank=-C"/>
+<img src="https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1&rank=-C&no-frame=true&no-bg=true"/>
 <img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg"/>
 
 <br><br><br><br>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=fhkzgsbyaqst7vrxl356jnyap&count=1" alt="Spotify Recently Played" />
 </p>
-
 <br>
 
 <!-- <p align="center"> 
