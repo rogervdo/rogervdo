@@ -2,7 +2,7 @@
 <br><br><br>
 
 <img src="https://trophygh.kolioaris.xyz/?username=rogervdo&theme=onedark&row=1"/>
-<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg" style="width: 40%;"/>
+<img src="https://raw.githubusercontent.com/rogervdo/rogervdo/main/github-metrics.svg" style="width: 50%;"/>
 
 <br><br><br><br>
 <p align="center">
