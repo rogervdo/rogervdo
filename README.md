@@ -17,9 +17,9 @@
 </p> -->
 
 
-
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.deno.dev/rogervdo/count.svg" alt="Key:: Visitor's Count" />
 </p>
-
+-->
